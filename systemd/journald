@@ -6,7 +6,7 @@ __Journal Format__ : systemd-journald stores log data in a binary format called 
 
 Unified Logging: journald consolidates log messages from various sources, including the kernel, system services, and user applications, into a single journal. This unified approach simplifies log management and analysis.
 
-##Metadata: The journal includes metadata such as timestamps, severity levels, and the source of log messages, providing additional context for log entries.
+## Metadata: The journal includes metadata such as timestamps, severity levels, and the source of log messages, providing additional context for log entries.
 
 Indexed Storage: systemd-journald indexes log data for efficient retrieval, enabling fast searches and filtering based on various criteria, such as time range, severity level, or originating process.
 
