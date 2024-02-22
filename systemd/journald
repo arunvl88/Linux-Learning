@@ -2,7 +2,7 @@ systemd-journald is a system service in the systemd suite of system management d
 
 Here are some key features and aspects of systemd-journald:
 
-**Journal Format**: systemd-journald stores log data in a binary format called the journal. This format is designed for efficient storage and querying of log data, providing faster access compared to traditional text-based log files.
+**Journal Format** : systemd-journald stores log data in a binary format called the journal. This format is designed for efficient storage and querying of log data, providing faster access compared to traditional text-based log files.
 
 Unified Logging: journald consolidates log messages from various sources, including the kernel, system services, and user applications, into a single journal. This unified approach simplifies log management and analysis.
 
